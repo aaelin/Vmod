@@ -10,7 +10,7 @@ label day1plus_vladstory:
     show blinking
     $renpy.pause(3)
     play ambience ambience_medstation_inside_day fadein 1
-    $renpy.pause(2)
+    $renpy.pause(2.1)
     "Я пытаюсь открыть глаза хоть на немножко.{w=1} Свет бьёт по ним, не щадя, и приходится понемногу их открывать, чтобы это прошло безболезненно."
     "Белый потолок с чуть заметными серыми полосами штукатурки."
     th "Очень искусно сделано, не буду врать."
