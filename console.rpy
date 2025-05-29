@@ -1,3 +1,3 @@
 init python:
-    config.{w=1}console = True
+    config.console = True
     config.developer = True
