@@ -217,7 +217,7 @@ init:
         pause 0.1
         repeat
 
-    #Мику ночью
+     #Мику ночью
 image mi_dress_angry_night = im.MatrixColor(
     "mods/Vmod/pic/miku/mi_dress_angry.png",
     im.matrix.tint(0.63, 0.78, 0.82))
@@ -667,7 +667,7 @@ image us_dad_smile_night:
             (0, 0), "mods/Vmod/pic/sprite_others/dad_us/us_dad_body.png",  # Тело, смещение (0,0)
             (0, 0), "mods/Vmod/pic/sprite_others/dad_us/us_dad_smile.png"
             ),
-        im.matrix.tint(0.63, 0.78, 0.82)
+       im.matrix.tint(0.63, 0.78, 0.82)
     )
 image us_dad_normal_night:
     im.MatrixColor(
@@ -676,7 +676,7 @@ image us_dad_normal_night:
             (0, 0), "mods/Vmod/pic/sprite_others/dad_us/us_dad_body.png",  # Тело, смещение (0,0)
             (0, 0), "mods/Vmod/pic/sprite_others/dad_us/us_dad_normal.png"
             ),
-        im.matrix.tint(0.63, 0.78, 0.82)
+       im.matrix.tint(0.63, 0.78, 0.82)
     )
 image us_dad_serious_night:
     im.MatrixColor(
@@ -685,7 +685,7 @@ image us_dad_serious_night:
             (0, 0), "mods/Vmod/pic/sprite_others/dad_us/us_dad_body.png",  # Тело, смещение (0,0)
             (0, 0), "mods/Vmod/pic/sprite_others/dad_us/us_dad_serious.png"
             ),
-        im.matrix.tint(0.63, 0.78, 0.82)
+       im.matrix.tint(0.63, 0.78, 0.82)
     )
 
 image us_dad_smile_sunset:
@@ -695,7 +695,7 @@ image us_dad_smile_sunset:
             (0, 0), "mods/Vmod/pic/sprite_others/dad_us/us_dad_body.png",  # Тело, смещение (0,0)
             (0, 0), "mods/Vmod/pic/sprite_others/dad_us/us_dad_smile.png"
             ),
-        im.matrix.tint(0.94, 0.82, 1.0)
+       im.matrix.tint(0.94, 0.82, 1.0)
     )
 image us_dad_normal_sunset:
     im.MatrixColor(
@@ -704,7 +704,7 @@ image us_dad_normal_sunset:
             (0, 0), "mods/Vmod/pic/sprite_others/dad_us/us_dad_body.png",  # Тело, смещение (0,0)
             (0, 0), "mods/Vmod/pic/sprite_others/dad_us/us_dad_normal.png"
             ),
-        im.matrix.tint(0.94, 0.82, 1.0)
+       im.matrix.tint(0.94, 0.82, 1.0)
     )
 image us_dad_serious_sunset:
     im.MatrixColor(
@@ -713,7 +713,7 @@ image us_dad_serious_sunset:
             (0, 0), "mods/Vmod/pic/sprite_others/dad_us/us_dad_body.png",  # Тело, смещение (0,0)
             (0, 0), "mods/Vmod/pic/sprite_others/dad_us/us_dad_serious.png"
             ),
-        im.matrix.tint(0.94, 0.82, 1.0)
+       im.matrix.tint(0.94, 0.82, 1.0)
     )
 
     #Мама Ульяны
@@ -792,7 +792,7 @@ image mi_civil_smile_sunset:
             (0, 0), "mods/Vmod/pic/miku/ussr/mi_2_civil.png",  # Тело, смещение (0,0)
             (0, 0), "mods/Vmod/pic/miku/ussr/mi_2_smile.png"
             ),
-        im.matrix.tint(0.94, 0.82, 1.0)
+       im.matrix.tint(0.94, 0.82, 1.0)
     )
 image mi_civil_happy_sunset:
     im.MatrixColor(
@@ -801,7 +801,7 @@ image mi_civil_happy_sunset:
             (0, 0), "mods/Vmod/pic/miku/ussr/mi_2_civil.png",  # Тело, смещение (0,0)
             (0, 0), "mods/Vmod/pic/miku/ussr/mi_2_happy.png"
             ),
-        im.matrix.tint(0.94, 0.82, 1.0)
+       im.matrix.tint(0.94, 0.82, 1.0)
     )
 image mi_civil_grin_sunset:
     im.MatrixColor(
@@ -810,7 +810,7 @@ image mi_civil_grin_sunset:
             (0, 0), "mods/Vmod/pic/miku/ussr/mi_2_civil.png",  # Тело, смещение (0,0)
             (0, 0), "mods/Vmod/pic/miku/ussr/mi_2_grin.png"
             ),
-        im.matrix.tint(0.94, 0.82, 1.0)
+       im.matrix.tint(0.94, 0.82, 1.0)
     )
 image mi_civil_sad:
     Composite(
@@ -887,7 +887,7 @@ image mi_sport_normal_sunset:
             (0, 0), "mods/Vmod/pic/miku/ussr/mi_3_sport.png",  # Тело, смещение (0,0)
             (0, 0), "mods/Vmod/pic/miku/ussr/mi_3_normal.png"
             ),
-        im.matrix.tint(0.94, 0.82, 1.0)
+       im.matrix.tint(0.94, 0.82, 1.0)
     )
 image mi_sport_upset_sunset:
     im.MatrixColor(
@@ -896,7 +896,7 @@ image mi_sport_upset_sunset:
             (0, 0), "mods/Vmod/pic/miku/ussr/mi_3_sport.png",  # Тело, смещение (0,0)
             (0, 0), "mods/Vmod/pic/miku/ussr/mi_3_upset.png"
             ),
-        im.matrix.tint(0.94, 0.82, 1.0)
+       im.matrix.tint(0.94, 0.82, 1.0)
     )
 image mi_sport_serious_sunset:
     im.MatrixColor(
@@ -905,7 +905,7 @@ image mi_sport_serious_sunset:
             (0, 0), "mods/Vmod/pic/miku/ussr/mi_3_sport.png",  # Тело, смещение (0,0)
             (0, 0), "mods/Vmod/pic/miku/ussr/mi_3_serious.png"
             ),
-        im.matrix.tint(0.94, 0.82, 1.0)
+       im.matrix.tint(0.94, 0.82, 1.0)
     )
 image mi_sport_grin_sunset:
     im.MatrixColor(
@@ -914,7 +914,7 @@ image mi_sport_grin_sunset:
             (0, 0), "mods/Vmod/pic/miku/ussr/mi_2_sport.png",  # Тело, смещение (0,0)
             (0, 0), "mods/Vmod/pic/miku/ussr/mi_2_grin.png"
             ),
-        im.matrix.tint(0.94, 0.82, 1.0)
+       im.matrix.tint(0.94, 0.82, 1.0)
     )
 image mi_sport_smile_sunset:
     im.MatrixColor(
@@ -923,7 +923,7 @@ image mi_sport_smile_sunset:
             (0, 0), "mods/Vmod/pic/miku/ussr/mi_2_sport.png",  # Тело, смещение (0,0)
             (0, 0), "mods/Vmod/pic/miku/ussr/mi_2_smile.png"
             ),
-        im.matrix.tint(0.94, 0.82, 1.0)
+       im.matrix.tint(0.94, 0.82, 1.0)
     )
 image mi_sport_surprise_sunset:
     im.MatrixColor(
@@ -932,7 +932,7 @@ image mi_sport_surprise_sunset:
             (0, 0), "mods/Vmod/pic/miku/ussr/mi_1_sport.png",  # Тело, смещение (0,0)
             (0, 0), "mods/Vmod/pic/miku/ussr/mi_1_surprise.png"
             ),
-        im.matrix.tint(0.94, 0.82, 1.0)
+       im.matrix.tint(0.94, 0.82, 1.0)
     )
 
 init python:
@@ -1102,11 +1102,11 @@ init python:
     def is_renpy_window_open():
         #Проверяем, открыто ли окно Ren'Py.
         try:
-            #пробуем получить окно, если оно есть
-            renpy.display.screen_variant()
-            return True
+             #пробуем получить окно, если оно есть
+             renpy.display.screen_variant()
+             return True
         except Exception:
-            #если не получилось, значит окна нет
+             #если не получилось, значит окна нет
             return False
 
 label achievement_show:
